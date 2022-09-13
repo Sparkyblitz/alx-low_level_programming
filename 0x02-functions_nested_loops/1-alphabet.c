@@ -2,7 +2,7 @@
  * File: 1-alphabet.c
  * Auth: Ugo Chigozie
  */
-#include "main.h"
+#include "main.c"
 /**
  * print_alphabet - prints the alphabet in lowercase, followed by a new line.
  */
